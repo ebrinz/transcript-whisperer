@@ -1,7 +1,14 @@
-
 .env
 input/*
+!input/.gitkeep
 output/*
+!output/.gitkeep
+
+test/input/*
+!test/input/.gitkeep
+test/output/*
+!test/output/.gitkeep
+
 whisper.cpp
 
 .DS_Store
