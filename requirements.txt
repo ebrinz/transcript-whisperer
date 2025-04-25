@@ -1,0 +1,5 @@
+python-dotenv
+pyannote.audio[separation]==3.3.2
+loguru
+scipy
+torchaudio
